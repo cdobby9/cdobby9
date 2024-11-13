@@ -3,7 +3,7 @@
 ### IGN: cdobby9
 
 
-#### My Languages
+#### Stack
 
 [![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)](https://html.spec.whatwg.org)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
